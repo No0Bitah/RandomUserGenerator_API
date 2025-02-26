@@ -14,14 +14,14 @@ This script fetches and displays random user data from the [Random User API](htt
 Ensure you have the following Python libraries installed:
 
 ```sh
-pip install requests pandas prettytable colorama
+pip install requests pandas prettytable
 ```
 
 ## Usage
 Run the script using:
 
 ```sh
-python script.py
+python randomUser.py
 ```
 
 Follow the on-screen prompts to generate user data.
